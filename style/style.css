@@ -1,0 +1,55 @@
+body {
+    background-image: url(/style/IES\ Corona.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: 2500px;
+    justify-content: center;
+}
+
+input {
+    margin-top: 15%;
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+    background-color: beige;
+    font-weight: bolder;
+    border: solid black;
+    width: 80px;
+    height: 30px;
+
+}
+
+.input1 {
+    margin-left: 41%;
+}
+
+.calc {
+    margin-left: 30%;
+}
+
+output {
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: whitesmoke;
+}
+
+.res {
+    align-items: center;
+    margin-left: 43%;
+}
+
+button {
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    background-color: aquamarine;
+    border: solid black;
+}
+
+.calc {
+    margin-left: 43%;
+    margin-top: 10px;
+}
